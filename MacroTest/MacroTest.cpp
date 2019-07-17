@@ -32,8 +32,6 @@ int main()
 	_CrtDumpMemoryLeaks();
 #ifdef hhirai
 	std::cout << "Hello hhirai!\n";
-#elif hhirai
-	std::cout << "Hello hhirai!\n";
 #elif yakihiro
 	std::cout << "Hello Yokoyama\n";
 #elif stadayosi
