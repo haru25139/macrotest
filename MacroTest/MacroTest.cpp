@@ -34,6 +34,8 @@ int main()
 	std::cout << "Hello hhirai!\n";
 #elif hhirai
 	std::cout << "Hello hhirai!\n";
+#elif yakihiro
+	std::cout << "Hello Yokoyama\n";
 #else
 	std::cout << "Who?\n";
 #endif
